@@ -1,29 +1,24 @@
-# Vaidehi's Portfolio Website
+# Personal Portfolio Website
 
-This repository contains the source code for my personal portfolio website. It is designed to present my background, skills, and projects in a clear and modern format, with an emphasis on clean design, responsive layout, and subtle animations.
+This project is a personal portfolio website developed to showcase my skills, featured projects, and contact information in a professional and visually engaging manner.
 
----
+## Features
 
-## 🔍 Overview
+- Responsive design suitable for all screen sizes
+- Smooth scroll and animation effects using AOS
+- Organized sections: About, Projects, Skills, Contact
+- Neumorphic-inspired UI for social links
+- Clean dark theme for modern aesthetics
 
-The portfolio includes the following sections:
+## Built With
 
-- **Hero Section**: Introduction with a bold heading and smooth scrolling.
-- **About Me**: Brief professional summary.
-- **Projects**: Highlights of selected works or contributions.
-- **Skills**: Technologies and tools I am proficient in.
-- **Contact**: Interactive links to GitHub, LinkedIn, and Email.
+- HTML5
+- Tailwind CSS
+- AOS (Animate on Scroll)
+- Git & GitHub
 
-The website is fully responsive and includes scroll-triggered animations for enhanced user experience.
+## Contact
 
----
-
-## 🛠️ Technologies Used
-
-- **HTML5**
-- **Tailwind CSS** (utility-first framework for styling)
-- **AOS (Animate on Scroll)** for animations
-- **Git & GitHub** for version control
-
----
-
+- GitHub: [vaidehi310705](https://github.com/vaidehi310705)
+- LinkedIn: [Vaidehi Raut](https://www.linkedin.com/in/vaidehi-raut-9563052b9/)
+- Email: [vaidehiraut21@gmail.com](mailto:vaidehiraut21@gmail.com)
