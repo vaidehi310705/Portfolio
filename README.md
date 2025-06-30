@@ -10,12 +10,6 @@ This project is a personal portfolio website developed to showcase my skills, fe
 - Neumorphic-inspired UI for social links
 - Clean dark theme for modern aesthetics
 
-## Built With
-
-- HTML5
-- Tailwind CSS
-- AOS (Animate on Scroll)
-- Git & GitHub
 
 ## Contact
 
